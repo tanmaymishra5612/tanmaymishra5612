@@ -21,4 +21,6 @@
   → Worked on large-scale communication systems & improved reliability  
 
 - ⚡ **ML Intern at BHEL**  
-  → Built ML models for fault detection and predictive maintenance  
+  → Built ML models for fault detection and predictive maintenance
+
+  
