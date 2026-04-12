@@ -1,5 +1,6 @@
 ▶️ **Introduction:**
 ➖ Final-year B.Tech Engineering student at Birla Institute of Technology, Mesra with hands-on experience in building scalable, production-ready software systems.
+
 ➖ Full Stack Engineer with experience in ML domain, Strong in Data Structures, System Thinking & Analytical Skills
 
 📊 I’ve worked on projects like:
