@@ -5,6 +5,18 @@
 
 ➖ Full Stack Engineer with experience in ML domain, Strong in Data Structures, System Thinking & Analytical Skills
 
+💼 Experience
+
+- 🐕 **Backend Developer at papapet**
+- Designed and developed RESTful APIs for core platform features including pet service listings, booking flows, and user
+management using Node.js and Express.js. 
+
+- 🚆 **Indian Railways Intern**  
+→ Worked on large-scale communication systems & improved reliability  
+
+- ⚡ **ML Intern at BHEL**  
+→ Built ML models for fault detection and predictive maintenance
+
 📊 I’ve worked on projects like:
 
 🍅 **Tomato - Food Delivery App**
@@ -18,13 +30,6 @@
 🎥 **Streamify - Video Calling App**
 - Real-time chat & video calling with screen sharing
 - Secure authentication & scalable architecture  
-
-💼 Experience
-- 🚆 **Indian Railways Intern**  
-→ Worked on large-scale communication systems & improved reliability  
-
-- ⚡ **ML Intern at BHEL**  
-→ Built ML models for fault detection and predictive maintenance
 
 ## 🛠️ Tech Stack
 <p align="center">
