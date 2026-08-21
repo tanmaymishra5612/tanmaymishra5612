@@ -44,8 +44,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanmaymishra5612&show_icons=true&theme=tokyonight" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaymishra5612&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaymishra5612&theme=tokyonight" />
 </p>
 
@@ -53,7 +51,7 @@
 <p align="center">
   <a href="mailto:tanmaymishra5612@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/tanmaymishra5612"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmay-mishra-0ab1b2279/
+  <a href="https://www.linkedin.com/in/tanmay-mishra-0ab1b2279/">
 ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
