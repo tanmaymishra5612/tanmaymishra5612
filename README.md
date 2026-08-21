@@ -43,12 +43,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaymishra5612&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=tanmaymishra5612&theme=tokyonight&hide_border=true" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=tanmaymishra5612&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaymishra5612&theme=tokyonight" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Problem%20Solver&center=true&width=600&height=50">
 </p>
 
 ## 🌐 Connect with Me
