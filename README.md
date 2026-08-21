@@ -24,9 +24,11 @@ management using Node.js and Express.js.
 - Full-stack application with authentication & payment integration  
 - Built scalable user flow with real-time features
   
-💼 **Job Application Portal**
-- Django-based system with admin panel  
-- Managed job postings & applicant workflows
+💼 **Virtual Assistance**
+- Built a Python-based voice assistant for Linux Wayland environments (Hyprland, Sway) with a custom wake word for
+  handsfree activation.  
+- Implemented system-level automation including screenshot capture via grim and keyboard input via ydotool, for full
+  Wayland protocol compatibility.
   
 🎥 **Streamify - Video Calling App**
 - Real-time chat & video calling with screen sharing
