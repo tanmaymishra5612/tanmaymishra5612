@@ -1,38 +1,47 @@
 # 👋 Hi, I'm Tanmay!
-▶️ **Introduction:**   
 
-➖ Final-year B.Tech Engineering student at Birla Institute of Technology, Mesra with hands-on experience in building scalable, production-ready software systems.
+▶️ **Introduction:**
 
-➖ Full Stack Engineer with experience in ML domain, Strong in Data Structures, System Thinking & Analytical Skills
+➖ B.Tech Engineering graduate from **Birla Institute of Technology, Mesra**, with hands-on experience in software development, backend engineering, and machine learning.
 
-💼 Experience
+➖ Software Developer with experience in **Node.js, Express.js, React.js, Python, REST APIs, and cloud technologies**, with strong fundamentals in **Data Structures, OOPS, DBMS, Operating Systems, and Networking**.
 
-- 🐕 **Backend Developer at papapet**
+💼 **Experience**
 
-→ Designed and developed RESTful APIs for core platform features including pet service listings, booking flows, and user
-  management using Node.js and Express.js. 
+* 🐕 **Software Developer Intern at Papapet**
 
-- 🚆 **Indian Railways Intern**  
-→ Worked on large-scale communication systems & improved reliability  
+→ Designed and developed RESTful APIs for core platform features including pet service listings, booking flows, and user management using **Node.js and Express.js**.
 
-- ⚡ **ML Intern at BHEL**  
-→ Built ML models for fault detection and predictive maintenance
+→ Developed APIs for vendor onboarding, service approvals, and order tracking across grooming, boarding, and veterinary services.
 
-📊 I’ve worked on projects like:
+→ Reduced API response time by **30%** through query optimization and caching strategies.
 
-🍅 **Tomato - Food Delivery App**
-- Full-stack application with authentication & payment integration  
-- Built scalable user flow with real-time features
-  
-💼 **Virtual Assistance**
-- Built a Python-based voice assistant for Linux Wayland environments (Hyprland, Sway) with a custom wake word for
-  handsfree activation.  
-- Implemented system-level automation including screenshot capture via grim and keyboard input via ydotool, for full
-  Wayland protocol compatibility.
-  
-🎥 **Streamify - Video Calling App**
-- Real-time chat & video calling with screen sharing
-- Secure authentication & scalable architecture  
+* ⚡ **ML Intern at BHEL India**
+
+→ Built a Transformer Fault Detection classifier and Remaining Useful Life (RUL) regressor using **SMOTE, LightGBM, and Random Forest**.
+
+→ Achieved **93% accuracy and 0.94 F1-score** across four transformer fault classes.
+
+→ Improved model robustness using SMOTE-Tomek, achieving **R² = 0.67 and RMSE = 139.81**.
+
+📊 **I’ve worked on projects like:**
+
+🍅 **Tomato — Food Delivery Application**
+
+* Full-stack food delivery application built using **React.js, Node.js, Express.js, MongoDB, Socket.io, and Tailwind CSS**.
+* Implemented **JWT authentication**, multi-step checkout, and payment integration.
+* Built real-time features and secure end-to-end user flows.
+
+💼 **Virtual Assistant**
+
+* Built a **Python-based voice assistant** for Linux Wayland environments such as Hyprland and Sway with a custom wake word for hands-free activation.
+* Implemented system-level automation including screenshot capture using **grim** and keyboard input using **ydotool**.
+
+🎥 **Streamify — Video Calling & Chat Application**
+
+* Built a full-stack application with **real-time messaging, typing indicators, reactions, and video calling**.
+* Implemented **JWT authentication and protected routes** for secure access control.
+* Used **React.js, Node.js, Express.js, MongoDB, MongoDB Atlas, and Mongoose**.
 
 ## 🛠️ Tech Stack
 <p align="center">
